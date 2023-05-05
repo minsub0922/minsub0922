@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/AWS-F89400?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<p align="left">🛠 Languages that I am confident in </p>
+<p align="left">🛠 Languages that I'm confident in </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-376E9D?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
